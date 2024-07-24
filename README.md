@@ -1,6 +1,6 @@
 # Atividade DUNA - Desenvolvimento Web
 
-- Autor: Anna Luiza
+- Autor: [Anna Luiza](https://github.com/annaaraujoifc)
 - *IFC Campus Araquari*
 
 ## Subtitulo
